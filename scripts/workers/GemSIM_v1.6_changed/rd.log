@@ -1,0 +1,40 @@
+INFO 2020-09-28 10:03:28,685 main 693 Generating paired end reads.
+DEBUG 2020-09-28 10:03:28,690 main 696 Parsing model file.
+DEBUG 2020-09-28 10:03:28,690 parseModel 372 Parsing error model file
+DEBUG 2020-09-28 10:03:34,439 main 698 Model file parsed.
+INFO 2020-09-28 10:03:34,562 main 767 Using empirical read length distribution
+DEBUG 2020-09-28 10:03:34,565 getRef 93 Reference file successfully parsed.
+ERROR 2020-09-28 10:03:34,566 gParse 559 Cannot find file ./haplo_1.txt. Please check pathname
+DEBUG 2020-09-28 10:03:34,567 getRef 93 Reference file successfully parsed.
+ERROR 2020-09-28 10:03:34,567 gParse 559 Cannot find file ./haplo_5.txt. Please check pathname
+DEBUG 2020-09-28 10:03:34,568 getRef 93 Reference file successfully parsed.
+ERROR 2020-09-28 10:03:34,569 gParse 559 Cannot find file ./haplo_4.txt. Please check pathname
+DEBUG 2020-09-28 10:03:34,569 getRef 93 Reference file successfully parsed.
+ERROR 2020-09-28 10:03:34,570 gParse 559 Cannot find file ./haplo_3.txt. Please check pathname
+DEBUG 2020-09-28 10:03:34,571 getRef 93 Reference file successfully parsed.
+ERROR 2020-09-28 10:03:34,571 gParse 559 Cannot find file ./haplo_2.txt. Please check pathname
+INFO 2020-09-28 10:03:45,904 main 849 ...simulated 5000 read pairs.
+INFO 2020-09-28 10:03:57,302 main 849 ...simulated 10000 read pairs.
+INFO 2020-09-28 10:04:08,713 main 849 ...simulated 15000 read pairs.
+INFO 2020-09-28 10:04:20,145 main 849 ...simulated 20000 read pairs.
+INFO 2020-09-28 10:04:31,588 main 849 ...simulated 25000 read pairs.
+INFO 2020-09-28 10:04:42,917 main 849 ...simulated 30000 read pairs.
+INFO 2020-09-28 10:04:54,270 main 849 ...simulated 35000 read pairs.
+INFO 2020-09-28 10:05:05,660 main 849 ...simulated 40000 read pairs.
+INFO 2020-09-28 10:05:17,097 main 849 ...simulated 45000 read pairs.
+INFO 2020-09-28 10:05:28,503 main 849 ...simulated 50000 read pairs.
+INFO 2020-09-28 10:05:39,684 main 849 ...simulated 55000 read pairs.
+INFO 2020-09-28 10:05:50,874 main 849 ...simulated 60000 read pairs.
+INFO 2020-09-28 10:06:02,283 main 849 ...simulated 65000 read pairs.
+INFO 2020-09-28 10:06:13,717 main 849 ...simulated 70000 read pairs.
+INFO 2020-09-28 10:06:24,964 main 849 ...simulated 75000 read pairs.
+INFO 2020-09-28 10:06:36,306 main 849 ...simulated 80000 read pairs.
+INFO 2020-09-28 10:06:47,525 main 849 ...simulated 85000 read pairs.
+INFO 2020-09-28 10:06:58,987 main 849 ...simulated 90000 read pairs.
+INFO 2020-09-28 10:07:10,127 main 849 ...simulated 95000 read pairs.
+INFO 2020-09-28 10:07:21,276 main 849 ...simulated 100000 read pairs.
+INFO 2020-09-28 10:07:21,279 main 855 Simulated 49645 reads from reference haplo_1.fasta <unknown description>
+INFO 2020-09-28 10:07:21,279 main 855 Simulated 25165 reads from reference haplo_2.fasta <unknown description>
+INFO 2020-09-28 10:07:21,279 main 855 Simulated 12539 reads from reference haplo_3.fasta <unknown description>
+INFO 2020-09-28 10:07:21,279 main 855 Simulated 6347 reads from reference haplo_4.fasta <unknown description>
+INFO 2020-09-28 10:07:21,279 main 855 Simulated 6304 reads from reference haplo_5.fasta <unknown description>
